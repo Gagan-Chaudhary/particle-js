@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/particle-js/static/css/main.023b8a1c.css",
+    "main.js": "/particle-js/static/js/main.90b430b4.js",
+    "index.html": "/particle-js/index.html",
+    "main.023b8a1c.css.map": "/particle-js/static/css/main.023b8a1c.css.map",
+    "main.90b430b4.js.map": "/particle-js/static/js/main.90b430b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.023b8a1c.css",
+    "static/js/main.90b430b4.js"
+  ]
+}
